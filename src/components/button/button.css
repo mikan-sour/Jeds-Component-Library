@@ -1,0 +1,14 @@
+.primary {
+    background-color: crimson;
+    color: #EEE;
+}
+
+.secondary {
+    background-color: EEE;
+    color: crimson;
+}
+
+/* button {
+    border-radius: 4px;
+    border: solid 1px transparent;
+} */
